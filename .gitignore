@@ -1,0 +1,8 @@
+# Archivos de Competitive Programming Helper (casos de prueba)
+.cph/
+
+# Binarios compilados
+*.exe
+*.out
+*.o
+a.out
